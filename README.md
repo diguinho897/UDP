@@ -31,7 +31,7 @@ O projeto é composto por dois módulos principais:
 
 Para iniciar o servidor, execute o seguinte comando na linha de comando:
 
-```bash
+```
 python server.py
 ```
 
@@ -41,7 +41,7 @@ Isso iniciará o servidor, que ficará esperando por conexões dos clientes na p
 
 Em seguida, para rodar o cliente, execute o seguinte comando em outra janela do terminal:
 
-```bash
+```
 python client.py
 ```
 
